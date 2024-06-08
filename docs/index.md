@@ -1,7 +1,7 @@
 
 # Computational Physics
 
-![img](/img/cp.png)
+![img](img/cp.png)
 
 
 ### Introduction to Statistical Mechanics
